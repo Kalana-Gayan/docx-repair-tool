@@ -61,5 +61,5 @@ pip install -r requirements.txt
 ---
 🧩 2. Run the repair script
 ```bash
-python repair_docx.py
+python repair_docx.py corrupted.docx
 ```
