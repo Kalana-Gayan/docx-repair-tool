@@ -31,6 +31,7 @@ Developed as a demonstration of my ability to handle **document automation and r
 ---
 
 ## 🧩 Project Structure
+```
 docx_repair_demo/
 ├── repair_docx.py # main repair script
 ├── corrupted.docx # sample input (test file)
@@ -38,7 +39,7 @@ docx_repair_demo/
 ├── clean.md # intermediate markdown conversion
 ├── requirements.txt # dependencies
 └── README.md # this file
-
+```
 
 
 ---
@@ -56,7 +57,9 @@ docx_repair_demo/
 🧩 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 ---
 🧩 2. Run the repair script
 ```bash
 python repair_docx.py
+```
